@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.out
+*.o
+
+# Vendor directories
+/vendor/
+
+# Go modules
+go.sum
+
+# IDE settings
+.vscode/
+.idea/
